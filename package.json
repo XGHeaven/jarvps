@@ -11,6 +11,10 @@
   },
   "author": "XGHeaven",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XGHeaven/jarvps.git"
+  },
   "dependencies": {
     "@alicloud/pop-core": "^1.5.1",
     "easy-table": "^1.1.1",
