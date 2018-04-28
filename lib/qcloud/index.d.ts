@@ -1,0 +1,1 @@
+export { QCloudService } from './service';

@@ -1,0 +1,13 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "@xgheaven/tslint-config-xgheaven"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-console": false,
+        "object-literal-sort-keys": [true, "match-declaration-order"],
+        "semicolon": [true, "never"]
+    },
+    "rulesDirectory": []
+}

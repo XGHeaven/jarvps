@@ -1,0 +1,1 @@
+export { AliyunService } from './service';
